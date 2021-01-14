@@ -9,17 +9,18 @@ Proje bash script dili ile oluşturulmuş olup, aşağıdaki işlemleri gerçekl
 </ul>
 
 ## Kurulum
-###**1.Adım** Whiptail Uygulamasını kurmak için
+**1.Adım)** Whiptail Uygulamasını kurmak
 ```
 sudo apt-get install whiptail
 ```
-Proje dosyasını indirmek için aşağıdaki komutları 
+**2.Adım)** Proje dosyasını indirmek ve çalıştırmak için aşağıdaki komutları terminal ekranınıza kopyalayın ve Enter'a basın.
 ```
 wget -P ~/ https://github.com/aslihanturkdonmez/whiptail_app/archive/main.zip
 unzip ~/main.zip
-mv ~/*-main ~/klasor_adi
-cd klasor_adi
+mv ~/*-main ~/AslihanTurkdonmez
+cd AslihanTurkdonmez
 bash whiptail.sh
 ```
+**NOT:** İsterseniz projeyi sağ üstten Download ZIP seçeneğini seçerek indirebilir, klasörü çıkarttığınız konuma terminalden erişip `bash whiptail.sh` yazarak da projeyi çalıştırabilirsiniz.
 
 ![1](https://user-images.githubusercontent.com/43846857/104632661-1b2afe00-56af-11eb-8548-c97593c4c1fe.png)
