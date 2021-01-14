@@ -63,4 +63,8 @@ Menüden *3)Üye Ara* seçildiğinde ekrana aramak istenen kaydın bilgilerini a
 #### 4)Üye Sil
 Menüden *3)Üye Ara* seçildiğinde ekrana silinmek istenen üyenin öğr no bilgisini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içinde o numaraya ait kayıt varsa silinecektir. Eğer yok ise *kayıt bulunamadı* uyarısı ekrana gelecektir.
 
+![silmeBasarılı](https://user-images.githubusercontent.com/43846857/104639430-78777d00-56b8-11eb-9a36-0e310214a476.png)
+
+
+
 #### 5)Çıkış Yap
