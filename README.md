@@ -70,3 +70,5 @@ Eğer yok ise *kayıt bulunamadı* uyarısı ekrana gelecektir.
 ![üyeBulunamadı](https://user-images.githubusercontent.com/43846857/104639515-8fb66a80-56b8-11eb-8281-2e6cca705238.png)
 
 #### 5)Çıkış Yap
+Menüden *4)Çıkış Yap* seçildiğinde ekrana *Emin misin?* diye soracak ekran gelir. *Biraz daha kalacağım* butonuna tıklandığında Menü ekranına dönüş yapacak, *Gitmem gerek, görüşürüz* butonuna tıklandığında ise program bitecektir.
+
