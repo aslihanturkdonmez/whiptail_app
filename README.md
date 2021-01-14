@@ -38,5 +38,7 @@ Bilgilendirme ekranından 'OK' butonuna basıldığında karşımıza işlem se�
 ![2](https://user-images.githubusercontent.com/43846857/104636222-13218d00-56b4-11eb-8d78-44019c63c4d4.png)
 
 #### 1)Kayıt Ekle
-Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gelecektir. Bir tanesinde İsim Soyisin diğerinde ise Öğr. No istenmektedir.
+Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gelecektir. Bir tanesinde İsim Soyisim diğerinde ise Öğr. No istenmektedir.
+![kayıt1](https://user-images.githubusercontent.com/43846857/104636492-7e6b5f00-56b4-11eb-953a-f438adb941ec.png)
+İsim-Soyisim alanı boş bırakıldığında *İsim - Soyisim Alanı olamaz!* uyarısı veriyor. Ve kayıt eklemeden Menü ekranına dönüş sağlıyor. Aynı şekilde aşağıda da görüldüğü üzere Öğr No alanı boş bırakıldığında uyarı veriyor ve 'OK' butonuna basıldığında Menü ekranına dönüş yapıyor.
 
