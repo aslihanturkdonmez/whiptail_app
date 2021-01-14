@@ -60,8 +60,8 @@ Menüden *2)Üyeleri Listele* seçildiğinde `kayıt.txt` içindeki tüm kişile
 #### 3)Kayıt Arama
 Menüden *3)Üye Ara* seçildiğinde ekrana aramak istenen kaydın bilgilerini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içindeki aramayla eşleşen kayıtlar ekrana gelecektir. Eğer hiç üye yok ise *Henüz hiç üye bulunmamaktadır!* mesajı ekrana gelecektir.
 
-#### 4)Üye Sil
-Menüden *3)Üye Ara* seçildiğinde ekrana silinmek istenen üyenin öğr no bilgisini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içinde o numaraya ait kayıt varsa silinecektir. 
+#### 4)Kayıt Sil
+Menüden *4)Üye Sil* seçildiğinde ekrana silinmek istenen üyenin öğr no bilgisini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içinde o numaraya ait kayıt varsa silinecektir. 
 
 ![silmeBasarılı](https://user-images.githubusercontent.com/43846857/104639430-78777d00-56b8-11eb-9a36-0e310214a476.png)
 
@@ -70,5 +70,7 @@ Eğer yok ise *kayıt bulunamadı* uyarısı ekrana gelecektir.
 ![üyeBulunamadı](https://user-images.githubusercontent.com/43846857/104639515-8fb66a80-56b8-11eb-8281-2e6cca705238.png)
 
 #### 5)Çıkış Yap
-Menüden *4)Çıkış Yap* seçildiğinde ekrana *Emin misin?* diye soracak ekran gelir. *Biraz daha kalacağım* butonuna tıklandığında Menü ekranına dönüş yapacak, *Gitmem gerek, görüşürüz* butonuna tıklandığında ise program bitecektir.
+Menüden *5)Çıkış Yap* seçildiğinde ekrana *Emin misin?* diye soracak ekran gelir. *Biraz daha kalacağım* butonuna tıklandığında Menü ekranına dönüş yapacak, *Gitmem gerek, görüşürüz* butonuna tıklandığında ise program bitecektir.
+
+![çıkış](https://user-images.githubusercontent.com/43846857/104639747-d310d900-56b8-11eb-9f01-d14cd3db398b.png)
 
