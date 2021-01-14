@@ -61,9 +61,11 @@ Menüden *2)Üyeleri Listele* seçildiğinde `kayıt.txt` içindeki tüm kişile
 Menüden *3)Üye Ara* seçildiğinde ekrana aramak istenen kaydın bilgilerini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içindeki aramayla eşleşen kayıtlar ekrana gelecektir. Eğer hiç üye yok ise *Henüz hiç üye bulunmamaktadır!* mesajı ekrana gelecektir.
 
 #### 4)Üye Sil
-Menüden *3)Üye Ara* seçildiğinde ekrana silinmek istenen üyenin öğr no bilgisini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içinde o numaraya ait kayıt varsa silinecektir. Eğer yok ise *kayıt bulunamadı* uyarısı ekrana gelecektir.
+Menüden *3)Üye Ara* seçildiğinde ekrana silinmek istenen üyenin öğr no bilgisini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içinde o numaraya ait kayıt varsa silinecektir. 
 
 ![silmeBasarılı](https://user-images.githubusercontent.com/43846857/104639430-78777d00-56b8-11eb-9a36-0e310214a476.png)
+
+Eğer yok ise *kayıt bulunamadı* uyarısı ekrana gelecektir.
 
 ![üyeBulunamadı](https://user-images.githubusercontent.com/43846857/104639515-8fb66a80-56b8-11eb-8281-2e6cca705238.png)
 
