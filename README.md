@@ -65,6 +65,6 @@ Menüden *3)Üye Ara* seçildiğinde ekrana silinmek istenen üyenin öğr no bi
 
 ![silmeBasarılı](https://user-images.githubusercontent.com/43846857/104639430-78777d00-56b8-11eb-9a36-0e310214a476.png)
 
-
+![üyeBulunamadı](https://user-images.githubusercontent.com/43846857/104639515-8fb66a80-56b8-11eb-8281-2e6cca705238.png)
 
 #### 5)Çıkış Yap
