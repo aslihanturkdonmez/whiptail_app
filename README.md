@@ -55,4 +55,12 @@ Kayıt eklendiğinde ise aşağıdaki uyarı geliyor ve 'OK' butonuna basıldı�
 #### 2)Tüm Kayıtları Göster
 Menüden *2)Üyeleri Listele* seçildiğinde `kayıt.txt` içindeki tüm kişiler görüntülenecektir. Eğer kayıt.txt yoksa veya içeriği boş ise aşağıdaki ekran gözükecektir.
 
+![listele](https://user-images.githubusercontent.com/43846857/104638097-c5f2ea80-56b6-11eb-889c-3e59650823ec.png)
 
+#### 3)Kayıt Arama
+Menüden *3)Üye Ara* seçildiğinde ekrana aramak istenen kaydın bilgilerini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içindeki aramayla eşleşen kayıtlar ekrana gelecektir. Eğer hiç üye yok ise *Henüz hiç üye bulunmamaktadır!* mesajı ekrana gelecektir.
+
+#### 4)Üye Sil
+Menüden *3)Üye Ara* seçildiğinde ekrana silinmek istenen üyenin öğr no bilgisini alan ekran gelecek, 'OK' butonuna basıldığında ise `kayıt.txt` içinde o numaraya ait kayıt varsa silinecektir. Eğer yok ise *kayıt bulunamadı* uyarısı ekrana gelecektir.
+
+#### 5)Çıkış Yap
