@@ -1,0 +1,17 @@
+   Developer Student Clubs (DSC), Google geliştirici teknolojilerine ilgi
+	 duyan, kendini mobil, web, makine öğrenimi, bulut bilişim 
+      gibi becerilerini geliştirmeye meraklı öğrenciler için küresel
+          olarak Google Developers tarafından başlatılan, öğrenci
+            kulüpleridir. Bizler DSC Bursa Teknik Üniversitesi
+     olarak, üniversitemizdeki öğrencilerin teknik gelişim becerileri 
+	kazanmalarını; gerçek hayatta karşılaşılan bir problemi, 
+	 teknolojiyi etkin şekilde kullanarak çözüm yolu bulma 
+	    ve bu çözümü uygulama fırsatı elde etmelerine
+		yardımcı olmak amacıyla çalışmaktayız. 
+    Workshop, eğitim, proje ve yarışmalar gibi etkinlikler organize ederek
+         amaçlarımız doğrultusunda etkinliklerimizi gerçekleştirmekteyiz.
+      Düzenlediğimiz çeşitli etkinliklerde sektörde yer alan ve bize yol
+	 gösterebilecek kişilerin konuşmaları ile “Gelecekte bizi iş
+             hayatında ne bekliyor?” gibi soruların cevaplarına
+               ulaşmanızı sağlayarak geleceğe yönelik hedeflerinizin
+		    şekillenmesine de yardımcı olmaktayız.
