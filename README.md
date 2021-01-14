@@ -22,7 +22,8 @@ cd AslihanTurkdonmez
 bash whiptail.sh
 ```
 **NOT:** İsterseniz projeyi sağ üstten Download ZIP seçeneğini seçerek indirebilir, klasörü çıkarttığınız konuma terminalden erişip 
-```bash whiptail.sh
+```
+bash whiptail.sh
 ``` 
 yazarak da projeyi çalıştırabilirsiniz.
 
