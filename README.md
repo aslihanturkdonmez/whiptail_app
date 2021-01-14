@@ -37,6 +37,6 @@ Proje ilk çalıştırıldığında kullanıcı için bir bilgilendirme ekranı 
 Bilgilendirme ekranından 'OK' butonuna basıldığında karşımıza işlem seçebileceğimiz bir menü ekranı geliyor.
 ![2](https://user-images.githubusercontent.com/43846857/104636222-13218d00-56b4-11eb-8d78-44019c63c4d4.png)
 
-&emsp;#### 1)Kayıt Ekle
+#### 1)Kayıt Ekle
 Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gelecektir. Bir tanesinde İsim Soyisin diğerinde ise Öğr. No istenmektedir.
 
