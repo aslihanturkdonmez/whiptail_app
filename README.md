@@ -30,7 +30,7 @@ yazarak da projeyi çalıştırabilirsiniz.
 ## Proje Tanıtım
 
 ### Giriş Ekranı
-Proje ilk çalıştırıldığında kullanıcı için bir bilgilendirme ekranı yer alıyor. 
+Proje ilk çalıştırıldığında kullanıcı için bir bilgilendirme ekranı yer alıyor. **Bu bilgilendirme ekranı `dsc.txt` dosyasından çekilmektedir. Projeyi indirirken bu dosyayı da aynı dizine indirdiğinizden emin olun!**
 
 ![1](https://user-images.githubusercontent.com/43846857/104632661-1b2afe00-56af-11eb-8548-c97593c4c1fe.png)
 
