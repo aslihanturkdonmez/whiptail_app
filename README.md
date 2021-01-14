@@ -44,5 +44,10 @@ Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gele
 
 ![kayıt1](https://user-images.githubusercontent.com/43846857/104636492-7e6b5f00-56b4-11eb-953a-f438adb941ec.png)
 
-İsim-Soyisim alanı boş bırakıldığında *İsim - Soyisim Alanı olamaz!* uyarısı veriyor. Ve kayıt eklemeden Menü ekranına dönüş sağlıyor. Aynı şekilde aşağıda da görüldüğü üzere Öğr No alanı boş bırakıldığında uyarı veriyor ve 'OK' butonuna basıldığında Menü ekranına dönüş yapıyor.
+İsim-Soyisim alanı boş bırakıldığında *İsim - Soyisim Alanı boş olamaz!* uyarısı veriyor. Ve kayıt eklemeden Menü ekranına dönüş sağlıyor. Aynı şekilde aşağıda da görüldüğü üzere Öğr No alanı boş bırakıldığında uyarı veriyor ve 'OK' butonuna basıldığında Menü ekranına dönüş yapıyor.
+
+![kbasarısız](https://user-images.githubusercontent.com/43846857/104636954-30a32680-56b5-11eb-813c-54223165446f.png)
+
+Kayıt eklendiğinde ise aşağıdaki uyarı geliyor ve 'OK' butonuna basıldığında Menü'ye dönüş sağlanıyor.
+
 
