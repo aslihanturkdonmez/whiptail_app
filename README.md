@@ -9,7 +9,13 @@ Proje bash script dili ile oluşturulmuş olup, aşağıdaki işlemleri gerçekl
 </ul>
 
 ## Kurulum
-```wget -P ~/ https://github.com/aslihanturkdonmez/whiptail_app/archive/main.zip
+###**1.Adım** Whiptail Uygulamasını kurmak için
+```
+sudo apt-get install whiptail
+```
+Proje dosyasını indirmek için aşağıdaki komutları 
+```
+wget -P ~/ https://github.com/aslihanturkdonmez/whiptail_app/archive/main.zip
 unzip ~/main.zip
 mv ~/*-main ~/klasor_adi
 cd klasor_adi
