@@ -28,9 +28,13 @@ bash whiptail.sh
 yazarak da projeyi çalıştırabilirsiniz.
 
 ## Proje Tanıtım
-<ul>
-  <li>**Giriş Ekranı**<li>
-<ul>
-  
+
+### Giriş Ekranı
+Proje ilk çalıştırıldığında kullanıcı için bir bilgilendirme ekranı yer alıyor. 
 ![1](https://user-images.githubusercontent.com/43846857/104632661-1b2afe00-56af-11eb-8548-c97593c4c1fe.png)
 
+### Menü
+Bilgilendirme ekranından 'OK' butonuna basıldığında karşımıza işlem seçebileceğimiz bir menü ekranı geliyor.
+
+#### 1)Kayıt Ekle
+Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gelecektir. Bir tanesinde İsim Soyisin diğerinde ise Öğr. No istenmektedir.
