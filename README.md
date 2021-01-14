@@ -40,7 +40,7 @@ Bilgilendirme ekranından 'OK' butonuna basıldığında karşımıza işlem se�
 ![2](https://user-images.githubusercontent.com/43846857/104636222-13218d00-56b4-11eb-8d78-44019c63c4d4.png)
 
 #### 1)Kayıt Ekle
-Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gelecektir. Bir tanesinde İsim Soyisim diğerinde ise Öğr. No istenmektedir.
+Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gelecektir. Bir tanesinde İsim Soyisim diğerinde ise Öğr. No istenmektedir. Bu bilgiler girildiğinde ve kayıt başarılı olduysa demektir ki girilen bilgiler `kayıt.txt` içine kaydedilmiş. Daha önceden böyle bir dosya yoksa aynı zamanda dosya oluşturulmuştur.
 
 ![kayıt1](https://user-images.githubusercontent.com/43846857/104636492-7e6b5f00-56b4-11eb-953a-f438adb941ec.png)
 
@@ -49,5 +49,10 @@ Menüden *1)DSC BTU üyesi ol* seçildiğinde iki adet bilgi giriş ekranı gele
 ![kbasarısız](https://user-images.githubusercontent.com/43846857/104636954-30a32680-56b5-11eb-813c-54223165446f.png)
 
 Kayıt eklendiğinde ise aşağıdaki uyarı geliyor ve 'OK' butonuna basıldığında Menü'ye dönüş sağlanıyor.
+
+![kayıtbasarı](https://user-images.githubusercontent.com/43846857/104637308-b030f580-56b5-11eb-9629-fadb2f4f7d2b.png)
+
+#### 2)Tüm Kayıtları Göster
+Menüden *2)Üyeleri Listele* seçildiğinde `kayıt.txt` içindeki tüm kişiler görüntülenecektir. Eğer kayıt.txt yoksa veya içeriği boş ise aşağıdaki ekran gözükecektir.
 
 
