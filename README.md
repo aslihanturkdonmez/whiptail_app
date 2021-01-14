@@ -21,7 +21,6 @@ mv ~/*-main ~/AslihanTurkdonmez
 cd AslihanTurkdonmez
 bash whiptail.sh
 ```
-**NOT:** İsterseniz projeyi sağ üstten Download ZIP seçeneğini seçerek indirebilir, klasörü çıkarttığınız konuma terminalden erişip 
-`bash whiptail.sh` yazarak da projeyi çalıştırabilirsiniz.
+**NOT:** İsterseniz projeyi sağ üstten Download ZIP seçeneğini seçerek indirebilir, klasörü çıkarttığınız konuma terminalden erişip       `bash whiptail.sh` yazarak da projeyi çalıştırabilirsiniz.
 
 ![1](https://user-images.githubusercontent.com/43846857/104632661-1b2afe00-56af-11eb-8548-c97593c4c1fe.png)
